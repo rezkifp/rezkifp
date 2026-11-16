@@ -1,4 +1,4 @@
-# Hi 👋 I'm Rezki Fajar
+# Hi 👋 I'm Rezki Fajar Pratama
 
 Software Engineer & Systems Architect | Building end-to-end web systems, AI workflows, and indie games.
 
@@ -8,12 +8,14 @@ Software Engineer & Systems Architect | Building end-to-end web systems, AI work
 
 - 🛠️ **Software & Systems Engineer** — Merancang sistem web end-to-end, arsitektur data, dan automasi AI
 - 🚀 Founder at **NexaPlay Interactive** (Software & AI Systems) & **BeyondScript Studio** (Game Studio) ([cyne.my.id](https://cyne.my.id))
+- 🌐 Portfolio & Case Studies: [rezki.cyne.my.id](https://rezki.cyne.my.id)
 - ⚙️ Fokus pada sistem siap produksi yang ringan, terstruktur, dan scalable
 
 ---
 
 ### 📫 Connect with Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-rezki.cyne.my.id-0F172A?style=flat&logo=vercel&logoColor=white)](https://rezki.cyne.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezki-fajar-067073353/)
 [![Website](https://img.shields.io/badge/BeyondScript-cyne.my.id-0284C7?style=flat&logo=google-chrome&logoColor=white)](https://cyne.my.id)
 [![Email](https://img.shields.io/badge/Email-rezkifp22%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rezkifp22@gmail.com)

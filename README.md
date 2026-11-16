@@ -7,7 +7,7 @@ Software Engineer & Systems Architect | Building end-to-end web systems, AI work
 ### 📌 About Me
 
 - 🛠️ **Software & Systems Engineer** — Merancang sistem web end-to-end, arsitektur data, dan automasi AI
-- 🚀 Founder at **NexaPlay Interactive** (Software & AI Systems) & **BeyondScript Studio** ([cyne.my.id](https://cyne.my.id))
+- 🚀 Founder at **NexaPlay Interactive** (Software & AI Systems) & **BeyondScript Studio** (Game Studio) ([cyne.my.id](https://cyne.my.id))
 - ⚙️ Fokus pada sistem siap produksi yang ringan, terstruktur, dan scalable
 
 ---

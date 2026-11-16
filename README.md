@@ -19,6 +19,7 @@ Software Engineer & Systems Architect | Building end-to-end web systems, AI work
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezki-fajar-067073353/)
 [![Website](https://img.shields.io/badge/BeyondScript-cyne.my.id-0284C7?style=flat&logo=google-chrome&logoColor=white)](https://cyne.my.id)
 [![Email](https://img.shields.io/badge/Email-rezkifp22%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rezkifp22@gmail.com)
+[![Fiverr](https://www.fiverr.com/averagec1reng/build-a-custom-full-stack-web-application)
 
 ---
 

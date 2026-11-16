@@ -1,4 +1,4 @@
-# Hi 👋 I'm Rezki Fajar Pratama
+# Hi, I'm Rezki Fajar Pratama
 
 Software Engineer & Systems Architect | Building end-to-end web systems, AI workflows, and indie games.
 

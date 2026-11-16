@@ -15,7 +15,7 @@ Software Engineer & Systems Architect | Building end-to-end web systems, AI work
 
 ### 📫 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rezki.cyne.my.id-0F172A?style=flat&logo=vercel&logoColor=white)](https://rezki.cyne.my.id)
+[![Site](https://img.shields.io/badge/Portfolio-rezki.cyne.my.id-0F172A?style=flat&logo=vercel&logoColor=white)](https://rezki.cyne.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezki-fajar-067073353/)
 [![Website](https://img.shields.io/badge/BeyondScript-cyne.my.id-0284C7?style=flat&logo=google-chrome&logoColor=white)](https://cyne.my.id)
 [![Email](https://img.shields.io/badge/Email-rezkifp22%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rezkifp22@gmail.com)

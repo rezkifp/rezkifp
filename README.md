@@ -44,9 +44,11 @@ Software Engineer & Systems Architect | Building end-to-end web systems, AI work
 
 **Game Development**
 
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot_4.5-478CBF?style=flat&logo=godotengine&logoColor=white)
 ![Phaser](https://img.shields.io/badge/Phaser_3-8E44AD?style=flat)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 ---
 

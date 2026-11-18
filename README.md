@@ -1,12 +1,13 @@
 # Hi, I'm Rezki Fajar Pratama
 
-Software Engineer & Systems Architect | Building end-to-end web systems, AI workflows, and indie games.
+Software Engineer & Systems Architect | Building end-to-end web systems, AI workflows, and any games.
 
 ---
 
 ### 📌 About Me
 
-- 🛠️ **Software & Systems Engineer & Indie Gamedev** — Merancang sistem web end-to-end, arsitektur data, dan automasi AI
+- 🛠️ **Software & Systems Engineer** — Merancang sistem web end-to-end, arsitektur data, dan automasi AI
+- 🎮 **Game Developer / Gameplay Programmer** — Membangun mekanik game, sistem gameplay, dan pengalaman interaktif
 - 🚀 Founder at [**NexaPlay Interactive**](https://nexaplay.cyne.my.id) — Brand Hub for **NexaFlow** (SaaS & AI Systems) & [**BeyondScript Studio**](https://cyne.my.id) (Game Studio)
 - 🌐 Portfolio & Case Studies: [rezki.cyne.my.id](https://rezki.cyne.my.id)
 - ⚙️ Fokus pada sistem siap produksi yang ringan, terstruktur, dan scalable

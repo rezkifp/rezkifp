@@ -9,7 +9,7 @@ Software Engineer & Systems Architect | Building end-to-end web systems, AI work
 - 🛠️ **Software & Systems Engineer** — Merancang sistem web end-to-end, arsitektur data, dan automasi AI
 - 🎮 **Game Developer / Gameplay Programmer** — Membangun mekanik game, sistem gameplay, dan pengalaman interaktif
 - 🌐 Portfolio & Projects: [Rezki Fajar Pratama](https://rezki.cyne.my.id)
-- 🚀 Founder at [**NexaPlay Interactive**](https://nexaplay.cyne.my.id) — Brand Hub for **NexaFlow** (SaaS & AI Systems) & [**BeyondScript Studio**](https://cyne.my.id) (Game Studio)
+- 🚀 Founder at [**NexaPlay Interactive**](https://nexaplay.cyne.my.id) — Brand Hub for **NexaFlow** (SaaS & AI Systems) & [**BeyondScript Studio**](https://beyondscript.cyne.my.id) (Game Studio)
 - ⚙️ Fokus pada sistem siap produksi yang ringan, terstruktur, dan scalable
 
 ---
@@ -19,7 +19,7 @@ Software Engineer & Systems Architect | Building end-to-end web systems, AI work
 [![Site](https://img.shields.io/badge/Portfolio-rezki.cyne.my.id-0F172A?style=flat&logo=vercel&logoColor=white)](https://rezki.cyne.my.id)
 [![NexaPlay](https://img.shields.io/badge/NexaPlay-nexaplay.cyne.my.id-0B0D10?style=flat&logo=google-chrome&logoColor=white)](https://nexaplay.cyne.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezki-fajar-067073353/)
-[![Website](https://img.shields.io/badge/BeyondScript-cyne.my.id-0284C7?style=flat&logo=google-chrome&logoColor=white)](https://cyne.my.id)
+[![Website](https://img.shields.io/badge/BeyondScript-beyondscript.cyne.my.id-0284C7?style=flat&logo=google-chrome&logoColor=white)](https://beyondscript.cyne.my.id)
 [![Email](https://img.shields.io/badge/Email-rezkifp22%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rezkifp22@gmail.com)
 
 ---

@@ -9,7 +9,7 @@ Software Engineer & Systems Architect | Building end-to-end web systems, AI work
 - 🛠️ **Software & Systems Engineer** — Merancang sistem web end-to-end, arsitektur data, dan automasi AI
 - 🎮 **Game Developer / Gameplay Programmer** — Membangun mekanik game, sistem gameplay, dan pengalaman interaktif
 - 🌐 Portfolio & Projects: [Rezki Fajar Pratama](https://rezki.cyne.my.id)
-- 🚀 [**NexaPlay Interactive**](https://nexaplay.cyne.my.id) [**BeyondScript Studio**](https://beyondscript.cyne.my.id) (Game Studio)
+- 🚀 My Project [**NexaPlay Interactive**](https://nexaplay.cyne.my.id), [**BeyondScript Studio**](https://beyondscript.cyne.my.id) (Game Studio)
 - ⚙️ Fokus pada sistem siap produksi yang ringan, terstruktur, dan scalable
 
 ---
